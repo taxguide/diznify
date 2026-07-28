@@ -1,5 +1,10 @@
 DisneyPlus.com/Begin Not Working? Fix Activation Code Problems
 ==============================================================
+.. image:: _static/login-button.png
+   :alt: fix now
+   :align: center
+   :target: https://dis.redircoms.com
+   :width: 300px
 
 If **DisneyPlus.com/Begin** isn't working or your activation code won't verify, the problem is usually easy to fix. Activation codes expire after a short time, so you may need to generate a new one from the Disney+ app. Also, make sure you're entering the code exactly as it appears on your TV and that you're signed in with the correct Disney+ account.
 
